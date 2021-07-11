@@ -3,7 +3,7 @@ import 'package:eight_hours_project/utlis/routs.dart';
 import 'package:eight_hours_project/utlis/widgets/themes.dart';
 import 'package:flutter/material.dart';
 import 'pages/home_page.dart';
-import 'package:google_fonts/google_fonts.dart';
+//import 'package:google_fonts/google_fonts.dart';
 
 void main(List<String> args) {
   runApp(MyApp());

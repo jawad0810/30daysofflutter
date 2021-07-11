@@ -1,0 +1,80 @@
+{
+
+"products": [
+    {
+        "id": 1,
+        "name": "iphone 11 pro",
+        "desc": "Apple iphone 11th generation",
+        "price": 111,
+        "color": "#335505a",
+        "image": "https://gaadiwaadi.com/wp-content/uploads/2018/07/Haley-Announces-Huge-Plans-for-India-250-500-CC-Bikes-Arriving-2.jpg"
+
+    },
+    {
+        "id": 2,
+        "name": "iphone 12 pro",
+        "desc": "Apple iphone 12th generation",
+        "price": 222,
+        "color": "#335505a",
+        "image": "https://gaadiwaadi.com/wp-content/uploads/2018/07/Haley-Announces-Huge-Plans-for-India-250-500-CC-Bikes-Arriving-2.jpg"
+    },
+
+    {
+        "id": 3,
+        "name": "iphone 13 pro",
+        "desc": "Apple iphone 13th generation",
+        "price": 333,
+        "color": "#335505a",
+        "image": "https://gaadiwaadi.com/wp-content/uploads/2018/07/Haley-Announces-Huge-Plans-for-India-250-500-CC-Bikes-Arriving-2.jpg"
+    },
+
+    {
+        "id": 4,
+        "name": "iphone 14 pro",
+        "desc": "Apple iphone 14th generation",
+        "price": 444,
+        "color": "#335505a",
+        "image": "https://gaadiwaadi.com/wp-content/uploads/2018/07/Haley-Announces-Huge-Plans-for-India-250-500-CC-Bikes-Arriving-2.jpg"
+    },
+
+    {
+        "id": 5,
+        "name": "iphone 15 pro",
+        "desc": "Apple iphone 12th generation",
+        "price": 555,
+        "color": "#335505a",
+        "image": "https://gaadiwaadi.com/wp-content/uploads/2018/07/Haley-Announces-Huge-Plans-for-India-250-500-CC-Bikes-Arriving-2.jpg"
+    },
+
+    {
+        "id": 6,
+        "name": "iphone 16 pro",
+        "desc": "Apple iphone 12th generation",
+        "price": 666,
+        "color": "#335505a",
+        "image": "https://gaadiwaadi.com/wp-content/uploads/2018/07/Haley-Announces-Huge-Plans-for-India-250-500-CC-Bikes-Arriving-2.jpg"
+    },
+
+    {
+        "id": 7,
+        "name": "iphone 17 pro",
+        "desc": "Apple iphone 12th generation",
+        "price": 777,
+        "color": "#335505a",
+        "image": "https://gaadiwaadi.com/wp-content/uploads/2018/07/Haley-Announces-Huge-Plans-for-India-250-500-CC-Bikes-Arriving-2.jpg"
+    },
+
+    {
+        "id": 8,
+        "name": "iphone 18 pro",
+        "desc": "Apple iphone 12th generation",
+        "price": 888,
+        "color": "#335505a",
+        "image": ""
+    }
+]
+
+
+
+
+}
